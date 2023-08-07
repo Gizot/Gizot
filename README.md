@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=radical)
 - 🔭 I’m currently working on Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
 - 🌱 I’m currently learning Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
