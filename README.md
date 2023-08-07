@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![AngularCLI](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Java](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![JavaScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![TypeScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![CSS](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![BS5](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 - 🔭 I’m currently working on Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
 - 🌱 I’m currently learning Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
