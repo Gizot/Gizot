@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/SpringBoot)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/AngularCLI)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/Java)](https://bitbucket.org/lbesson/ansi-colors)
-[![](https://img.shields.io/badge/JavaScript)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/JavaScript)]
 [![](https://img.shields.io/badge/TypeScrip)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/BS5)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/HTML)](https://bitbucket.org/lbesson/ansi-colors)
