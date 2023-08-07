@@ -2,7 +2,7 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=radical)
-[![AngularCLI](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[!(https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![Java](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![JavaScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![TypeScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
