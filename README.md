@@ -2,12 +2,14 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=radical)
-[!(https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![Java](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![JavaScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![TypeScript](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![CSS](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![BS5](https://img.shields.io/badge/Maintained%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/SpringBoot%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/AngularCLI%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/Java%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/JavaScript%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/TypeScript%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/BS5%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/HTML%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/CSS%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 - 🔭 I’m currently working on Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
 - 🌱 I’m currently learning Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
