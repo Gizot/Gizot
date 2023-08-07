@@ -2,9 +2,9 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gizot&show_icons=true&theme=radical)
-[![](https://img.shields.io/badge/SpringBoot%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![](https://img.shields.io/badge/AngularCLI%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![](https://img.shields.io/badge/Java%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/SpringBoot-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/AngularCLI-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![](https://img.shields.io/badge/Java-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/JavaScript%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/TypeScript%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![](https://img.shields.io/badge/BS5%3F-YES-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
