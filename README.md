@@ -3,6 +3,7 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Gizot&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Gizot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 - 🔭 I’m currently working on Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
 - 🌱 I’m currently learning Java, Spring Boot, AngularCLI, SQL, HTML, CSS, BS5, JavaScript, TypeScript
